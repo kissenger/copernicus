@@ -1,0 +1,743 @@
+<PAMDataset>
+  <Subdataset name="SPM_avg_month_01">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="SPM_avg_month_01#long_name">Inorganic suspended particulate matter in sea water - Mean of the binned pixels</MDI>
+        <MDI key="SPM_avg_month_01#standard_name">mass_concentration_of_suspended_matter_in_sea_water</MDI>
+        <MDI key="SPM_avg_month_01#units">g/m3</MDI>
+        <MDI key="SPM_avg_month_01#valid_max">1000</MDI>
+        <MDI key="SPM_avg_month_01#valid_min">0</MDI>
+        <MDI key="SPM_avg_month_01#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0.14267992973328</MDI>
+          <MDI key="STATISTICS_MAXIMUM">100.00000762939</MDI>
+          <MDI key="STATISTICS_MEAN">3.1642414326235</MDI>
+          <MDI key="STATISTICS_STDDEV">5.8091426379957</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="SPM_avg_month_02">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="SPM_avg_month_02#long_name">Inorganic suspended particulate matter in sea water - Mean of the binned pixels</MDI>
+        <MDI key="SPM_avg_month_02#standard_name">mass_concentration_of_suspended_matter_in_sea_water</MDI>
+        <MDI key="SPM_avg_month_02#units">g/m3</MDI>
+        <MDI key="SPM_avg_month_02#valid_max">1000</MDI>
+        <MDI key="SPM_avg_month_02#valid_min">0</MDI>
+        <MDI key="SPM_avg_month_02#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0.11956645548344</MDI>
+          <MDI key="STATISTICS_MAXIMUM">100.00000762939</MDI>
+          <MDI key="STATISTICS_MEAN">3.2974024540384</MDI>
+          <MDI key="STATISTICS_STDDEV">6.2335285049045</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="SPM_avg_month_03">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="SPM_avg_month_03#long_name">Inorganic suspended particulate matter in sea water - Mean of the binned pixels</MDI>
+        <MDI key="SPM_avg_month_03#standard_name">mass_concentration_of_suspended_matter_in_sea_water</MDI>
+        <MDI key="SPM_avg_month_03#units">g/m3</MDI>
+        <MDI key="SPM_avg_month_03#valid_max">1000</MDI>
+        <MDI key="SPM_avg_month_03#valid_min">0</MDI>
+        <MDI key="SPM_avg_month_03#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0.128078982234</MDI>
+          <MDI key="STATISTICS_MAXIMUM">100.00001525879</MDI>
+          <MDI key="STATISTICS_MEAN">2.9736793069059</MDI>
+          <MDI key="STATISTICS_STDDEV">6.9617209080624</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="SPM_avg_month_04">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="SPM_avg_month_04#long_name">Inorganic suspended particulate matter in sea water - Mean of the binned pixels</MDI>
+        <MDI key="SPM_avg_month_04#standard_name">mass_concentration_of_suspended_matter_in_sea_water</MDI>
+        <MDI key="SPM_avg_month_04#units">g/m3</MDI>
+        <MDI key="SPM_avg_month_04#valid_max">1000</MDI>
+        <MDI key="SPM_avg_month_04#valid_min">0</MDI>
+        <MDI key="SPM_avg_month_04#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0.075073152780533</MDI>
+          <MDI key="STATISTICS_MAXIMUM">100.00000762939</MDI>
+          <MDI key="STATISTICS_MEAN">2.183736720971</MDI>
+          <MDI key="STATISTICS_STDDEV">6.3830322762084</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="SPM_avg_month_05">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="SPM_avg_month_05#long_name">Inorganic suspended particulate matter in sea water - Mean of the binned pixels</MDI>
+        <MDI key="SPM_avg_month_05#standard_name">mass_concentration_of_suspended_matter_in_sea_water</MDI>
+        <MDI key="SPM_avg_month_05#units">g/m3</MDI>
+        <MDI key="SPM_avg_month_05#valid_max">1000</MDI>
+        <MDI key="SPM_avg_month_05#valid_min">0</MDI>
+        <MDI key="SPM_avg_month_05#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0.18276220560074</MDI>
+          <MDI key="STATISTICS_MAXIMUM">100.00000762939</MDI>
+          <MDI key="STATISTICS_MEAN">1.5303756718363</MDI>
+          <MDI key="STATISTICS_STDDEV">4.9417193486841</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="SPM_avg_month_06">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="SPM_avg_month_06#long_name">Inorganic suspended particulate matter in sea water - Mean of the binned pixels</MDI>
+        <MDI key="SPM_avg_month_06#standard_name">mass_concentration_of_suspended_matter_in_sea_water</MDI>
+        <MDI key="SPM_avg_month_06#units">g/m3</MDI>
+        <MDI key="SPM_avg_month_06#valid_max">1000</MDI>
+        <MDI key="SPM_avg_month_06#valid_min">0</MDI>
+        <MDI key="SPM_avg_month_06#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0.14404977858067</MDI>
+          <MDI key="STATISTICS_MAXIMUM">100.00000762939</MDI>
+          <MDI key="STATISTICS_MEAN">1.5213787920128</MDI>
+          <MDI key="STATISTICS_STDDEV">4.7608086968695</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="SPM_avg_month_07">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="SPM_avg_month_07#long_name">Inorganic suspended particulate matter in sea water - Mean of the binned pixels</MDI>
+        <MDI key="SPM_avg_month_07#standard_name">mass_concentration_of_suspended_matter_in_sea_water</MDI>
+        <MDI key="SPM_avg_month_07#units">g/m3</MDI>
+        <MDI key="SPM_avg_month_07#valid_max">1000</MDI>
+        <MDI key="SPM_avg_month_07#valid_min">0</MDI>
+        <MDI key="SPM_avg_month_07#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0.18620662391186</MDI>
+          <MDI key="STATISTICS_MAXIMUM">100.00000762939</MDI>
+          <MDI key="STATISTICS_MEAN">1.3609624613859</MDI>
+          <MDI key="STATISTICS_STDDEV">3.6964109071904</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="SPM_avg_month_08">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="SPM_avg_month_08#long_name">Inorganic suspended particulate matter in sea water - Mean of the binned pixels</MDI>
+        <MDI key="SPM_avg_month_08#standard_name">mass_concentration_of_suspended_matter_in_sea_water</MDI>
+        <MDI key="SPM_avg_month_08#units">g/m3</MDI>
+        <MDI key="SPM_avg_month_08#valid_max">1000</MDI>
+        <MDI key="SPM_avg_month_08#valid_min">0</MDI>
+        <MDI key="SPM_avg_month_08#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0.13262104988098</MDI>
+          <MDI key="STATISTICS_MAXIMUM">100</MDI>
+          <MDI key="STATISTICS_MEAN">1.4134906433349</MDI>
+          <MDI key="STATISTICS_STDDEV">4.377256022538</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="SPM_avg_month_09">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="SPM_avg_month_09#long_name">Inorganic suspended particulate matter in sea water - Mean of the binned pixels</MDI>
+        <MDI key="SPM_avg_month_09#standard_name">mass_concentration_of_suspended_matter_in_sea_water</MDI>
+        <MDI key="SPM_avg_month_09#units">g/m3</MDI>
+        <MDI key="SPM_avg_month_09#valid_max">1000</MDI>
+        <MDI key="SPM_avg_month_09#valid_min">0</MDI>
+        <MDI key="SPM_avg_month_09#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0.20720867812634</MDI>
+          <MDI key="STATISTICS_MAXIMUM">75.680084228516</MDI>
+          <MDI key="STATISTICS_MEAN">1.5433714858818</MDI>
+          <MDI key="STATISTICS_STDDEV">4.5214311379985</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="SPM_avg_month_10">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="SPM_avg_month_10#long_name">Inorganic suspended particulate matter in sea water - Mean of the binned pixels</MDI>
+        <MDI key="SPM_avg_month_10#standard_name">mass_concentration_of_suspended_matter_in_sea_water</MDI>
+        <MDI key="SPM_avg_month_10#units">g/m3</MDI>
+        <MDI key="SPM_avg_month_10#valid_max">1000</MDI>
+        <MDI key="SPM_avg_month_10#valid_min">0</MDI>
+        <MDI key="SPM_avg_month_10#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0.14375767111778</MDI>
+          <MDI key="STATISTICS_MAXIMUM">100.00000762939</MDI>
+          <MDI key="STATISTICS_MEAN">1.7822168473195</MDI>
+          <MDI key="STATISTICS_STDDEV">4.8159082109526</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="SPM_avg_month_11">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="SPM_avg_month_11#long_name">Inorganic suspended particulate matter in sea water - Mean of the binned pixels</MDI>
+        <MDI key="SPM_avg_month_11#standard_name">mass_concentration_of_suspended_matter_in_sea_water</MDI>
+        <MDI key="SPM_avg_month_11#units">g/m3</MDI>
+        <MDI key="SPM_avg_month_11#valid_max">1000</MDI>
+        <MDI key="SPM_avg_month_11#valid_min">0</MDI>
+        <MDI key="SPM_avg_month_11#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0.12762551009655</MDI>
+          <MDI key="STATISTICS_MAXIMUM">100.00000762939</MDI>
+          <MDI key="STATISTICS_MEAN">2.2259522030005</MDI>
+          <MDI key="STATISTICS_STDDEV">5.1449893738856</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="SPM_avg_month_12">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="SPM_avg_month_12#long_name">Inorganic suspended particulate matter in sea water - Mean of the binned pixels</MDI>
+        <MDI key="SPM_avg_month_12#standard_name">mass_concentration_of_suspended_matter_in_sea_water</MDI>
+        <MDI key="SPM_avg_month_12#units">g/m3</MDI>
+        <MDI key="SPM_avg_month_12#valid_max">1000</MDI>
+        <MDI key="SPM_avg_month_12#valid_min">0</MDI>
+        <MDI key="SPM_avg_month_12#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0.18749406933784</MDI>
+          <MDI key="STATISTICS_MAXIMUM">74.79736328125</MDI>
+          <MDI key="STATISTICS_MEAN">4.0974747347464</MDI>
+          <MDI key="STATISTICS_STDDEV">6.3448743306351</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="SPM_avg_overall_annual">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="SPM_avg_overall_annual#long_name">Inorganic suspended particulate matter in sea water - Mean of the binned pixels</MDI>
+        <MDI key="SPM_avg_overall_annual#standard_name">mass_concentration_of_suspended_matter_in_sea_water</MDI>
+        <MDI key="SPM_avg_overall_annual#units">g/m3</MDI>
+        <MDI key="SPM_avg_overall_annual#valid_max">1000</MDI>
+        <MDI key="SPM_avg_overall_annual#valid_min">0</MDI>
+        <MDI key="SPM_avg_overall_annual#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0.11844480037689</MDI>
+          <MDI key="STATISTICS_MAXIMUM">100.00001525879</MDI>
+          <MDI key="STATISTICS_MEAN">2.4702921245308</MDI>
+          <MDI key="STATISTICS_STDDEV">5.6310233478278</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="SPM_count_month_01">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="SPM_count_month_01#long_name">Number of valid observations for month_01 average</MDI>
+        <MDI key="SPM_count_month_01#units">1</MDI>
+        <MDI key="SPM_count_month_01#_FillValue">-1</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">163</MDI>
+          <MDI key="STATISTICS_MEAN">45.806881313131</MDI>
+          <MDI key="STATISTICS_STDDEV">45.165260924724</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="SPM_count_month_02">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="SPM_count_month_02#long_name">Number of valid observations for month_02 average</MDI>
+        <MDI key="SPM_count_month_02#units">1</MDI>
+        <MDI key="SPM_count_month_02#_FillValue">-1</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">180</MDI>
+          <MDI key="STATISTICS_MEAN">76.874421296296</MDI>
+          <MDI key="STATISTICS_STDDEV">51.729048587653</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="SPM_count_month_03">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="SPM_count_month_03#long_name">Number of valid observations for month_03 average</MDI>
+        <MDI key="SPM_count_month_03#units">1</MDI>
+        <MDI key="SPM_count_month_03#_FillValue">-1</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">200</MDI>
+          <MDI key="STATISTICS_MEAN">106.11353114478</MDI>
+          <MDI key="STATISTICS_STDDEV">69.242321332701</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="SPM_count_month_04">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="SPM_count_month_04#long_name">Number of valid observations for month_04 average</MDI>
+        <MDI key="SPM_count_month_04#units">1</MDI>
+        <MDI key="SPM_count_month_04#_FillValue">-1</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">255</MDI>
+          <MDI key="STATISTICS_MEAN">131.30111531986</MDI>
+          <MDI key="STATISTICS_STDDEV">85.289811608681</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="SPM_count_month_05">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="SPM_count_month_05#long_name">Number of valid observations for month_05 average</MDI>
+        <MDI key="SPM_count_month_05#units">1</MDI>
+        <MDI key="SPM_count_month_05#_FillValue">-1</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">252</MDI>
+          <MDI key="STATISTICS_MEAN">133.05244107744</MDI>
+          <MDI key="STATISTICS_STDDEV">86.296733339788</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="SPM_count_month_06">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="SPM_count_month_06#long_name">Number of valid observations for month_06 average</MDI>
+        <MDI key="SPM_count_month_06#units">1</MDI>
+        <MDI key="SPM_count_month_06#_FillValue">-1</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">230</MDI>
+          <MDI key="STATISTICS_MEAN">115.94668560606</MDI>
+          <MDI key="STATISTICS_STDDEV">76.816668889479</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="SPM_count_month_07">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="SPM_count_month_07#long_name">Number of valid observations for month_07 average</MDI>
+        <MDI key="SPM_count_month_07#units">1</MDI>
+        <MDI key="SPM_count_month_07#_FillValue">-1</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">270</MDI>
+          <MDI key="STATISTICS_MEAN">115.3085753367</MDI>
+          <MDI key="STATISTICS_STDDEV">77.536505020584</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="SPM_count_month_08">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="SPM_count_month_08#long_name">Number of valid observations for month_08 average</MDI>
+        <MDI key="SPM_count_month_08#units">1</MDI>
+        <MDI key="SPM_count_month_08#_FillValue">-1</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">258</MDI>
+          <MDI key="STATISTICS_MEAN">122.08381734007</MDI>
+          <MDI key="STATISTICS_STDDEV">80.351491115506</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="SPM_count_month_09">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="SPM_count_month_09#long_name">Number of valid observations for month_09 average</MDI>
+        <MDI key="SPM_count_month_09#units">1</MDI>
+        <MDI key="SPM_count_month_09#_FillValue">-1</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">213</MDI>
+          <MDI key="STATISTICS_MEAN">109.87711489899</MDI>
+          <MDI key="STATISTICS_STDDEV">71.322780465355</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="SPM_count_month_10">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="SPM_count_month_10#long_name">Number of valid observations for month_10 average</MDI>
+        <MDI key="SPM_count_month_10#units">1</MDI>
+        <MDI key="SPM_count_month_10#_FillValue">-1</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">195</MDI>
+          <MDI key="STATISTICS_MEAN">97.643970959596</MDI>
+          <MDI key="STATISTICS_STDDEV">63.16806353941</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="SPM_count_month_11">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="SPM_count_month_11#long_name">Number of valid observations for month_11 average</MDI>
+        <MDI key="SPM_count_month_11#units">1</MDI>
+        <MDI key="SPM_count_month_11#_FillValue">-1</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">172</MDI>
+          <MDI key="STATISTICS_MEAN">59.274852693603</MDI>
+          <MDI key="STATISTICS_STDDEV">47.089152708434</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="SPM_count_month_12">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="SPM_count_month_12#long_name">Number of valid observations for month_12 average</MDI>
+        <MDI key="SPM_count_month_12#units">1</MDI>
+        <MDI key="SPM_count_month_12#_FillValue">-1</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">151</MDI>
+          <MDI key="STATISTICS_MEAN">22.197832491582</MDI>
+          <MDI key="STATISTICS_STDDEV">36.646196414251</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="SPM_count_overall_annual">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="SPM_count_overall_annual#long_name">Number of valid observations for overall_annual average</MDI>
+        <MDI key="SPM_count_overall_annual#units">1</MDI>
+        <MDI key="SPM_count_overall_annual#_FillValue">-1</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">2209</MDI>
+          <MDI key="STATISTICS_MEAN">1135.4812394781</MDI>
+          <MDI key="STATISTICS_STDDEV">748.70073139471</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+</PAMDataset>

@@ -1,0 +1,743 @@
+<PAMDataset>
+  <Subdataset name="ZSD_avg_month_01">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="ZSD_avg_month_01#long_name">Secchi disk depth - Mean of the binned pixels</MDI>
+        <MDI key="ZSD_avg_month_01#standard_name">secchi_depth_of_sea_water</MDI>
+        <MDI key="ZSD_avg_month_01#units">m</MDI>
+        <MDI key="ZSD_avg_month_01#valid_max">1000</MDI>
+        <MDI key="ZSD_avg_month_01#valid_min">0</MDI>
+        <MDI key="ZSD_avg_month_01#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">1.5206438302994</MDI>
+          <MDI key="STATISTICS_MAXIMUM">27.216146469116</MDI>
+          <MDI key="STATISTICS_MEAN">10.866002811843</MDI>
+          <MDI key="STATISTICS_STDDEV">5.9789436066608</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="ZSD_avg_month_02">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="ZSD_avg_month_02#long_name">Secchi disk depth - Mean of the binned pixels</MDI>
+        <MDI key="ZSD_avg_month_02#standard_name">secchi_depth_of_sea_water</MDI>
+        <MDI key="ZSD_avg_month_02#units">m</MDI>
+        <MDI key="ZSD_avg_month_02#valid_max">1000</MDI>
+        <MDI key="ZSD_avg_month_02#valid_min">0</MDI>
+        <MDI key="ZSD_avg_month_02#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">1.7995414733887</MDI>
+          <MDI key="STATISTICS_MAXIMUM">25.843832015991</MDI>
+          <MDI key="STATISTICS_MEAN">11.038985270469</MDI>
+          <MDI key="STATISTICS_STDDEV">6.0101391119589</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="ZSD_avg_month_03">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="ZSD_avg_month_03#long_name">Secchi disk depth - Mean of the binned pixels</MDI>
+        <MDI key="ZSD_avg_month_03#standard_name">secchi_depth_of_sea_water</MDI>
+        <MDI key="ZSD_avg_month_03#units">m</MDI>
+        <MDI key="ZSD_avg_month_03#valid_max">1000</MDI>
+        <MDI key="ZSD_avg_month_03#valid_min">0</MDI>
+        <MDI key="ZSD_avg_month_03#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">1.9948842525482</MDI>
+          <MDI key="STATISTICS_MAXIMUM">24.717323303223</MDI>
+          <MDI key="STATISTICS_MEAN">10.870063808007</MDI>
+          <MDI key="STATISTICS_STDDEV">5.7166462867005</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="ZSD_avg_month_04">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="ZSD_avg_month_04#long_name">Secchi disk depth - Mean of the binned pixels</MDI>
+        <MDI key="ZSD_avg_month_04#standard_name">secchi_depth_of_sea_water</MDI>
+        <MDI key="ZSD_avg_month_04#units">m</MDI>
+        <MDI key="ZSD_avg_month_04#valid_max">1000</MDI>
+        <MDI key="ZSD_avg_month_04#valid_min">0</MDI>
+        <MDI key="ZSD_avg_month_04#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">1.7260459661484</MDI>
+          <MDI key="STATISTICS_MAXIMUM">21.593235015869</MDI>
+          <MDI key="STATISTICS_MEAN">9.5191767289274</MDI>
+          <MDI key="STATISTICS_STDDEV">4.6693479869064</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="ZSD_avg_month_05">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="ZSD_avg_month_05#long_name">Secchi disk depth - Mean of the binned pixels</MDI>
+        <MDI key="ZSD_avg_month_05#standard_name">secchi_depth_of_sea_water</MDI>
+        <MDI key="ZSD_avg_month_05#units">m</MDI>
+        <MDI key="ZSD_avg_month_05#valid_max">1000</MDI>
+        <MDI key="ZSD_avg_month_05#valid_min">0</MDI>
+        <MDI key="ZSD_avg_month_05#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">1.6948350667953</MDI>
+          <MDI key="STATISTICS_MAXIMUM">14.712555885315</MDI>
+          <MDI key="STATISTICS_MEAN">8.7408923784648</MDI>
+          <MDI key="STATISTICS_STDDEV">2.9012606673412</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="ZSD_avg_month_06">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="ZSD_avg_month_06#long_name">Secchi disk depth - Mean of the binned pixels</MDI>
+        <MDI key="ZSD_avg_month_06#standard_name">secchi_depth_of_sea_water</MDI>
+        <MDI key="ZSD_avg_month_06#units">m</MDI>
+        <MDI key="ZSD_avg_month_06#valid_max">1000</MDI>
+        <MDI key="ZSD_avg_month_06#valid_min">0</MDI>
+        <MDI key="ZSD_avg_month_06#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">1.862450003624</MDI>
+          <MDI key="STATISTICS_MAXIMUM">16.482297897339</MDI>
+          <MDI key="STATISTICS_MEAN">9.9671273876918</MDI>
+          <MDI key="STATISTICS_STDDEV">3.5427430549768</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="ZSD_avg_month_07">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="ZSD_avg_month_07#long_name">Secchi disk depth - Mean of the binned pixels</MDI>
+        <MDI key="ZSD_avg_month_07#standard_name">secchi_depth_of_sea_water</MDI>
+        <MDI key="ZSD_avg_month_07#units">m</MDI>
+        <MDI key="ZSD_avg_month_07#valid_max">1000</MDI>
+        <MDI key="ZSD_avg_month_07#valid_min">0</MDI>
+        <MDI key="ZSD_avg_month_07#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">1.9194767475128</MDI>
+          <MDI key="STATISTICS_MAXIMUM">19.792085647583</MDI>
+          <MDI key="STATISTICS_MEAN">11.287347096709</MDI>
+          <MDI key="STATISTICS_STDDEV">4.180547480274</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="ZSD_avg_month_08">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="ZSD_avg_month_08#long_name">Secchi disk depth - Mean of the binned pixels</MDI>
+        <MDI key="ZSD_avg_month_08#standard_name">secchi_depth_of_sea_water</MDI>
+        <MDI key="ZSD_avg_month_08#units">m</MDI>
+        <MDI key="ZSD_avg_month_08#valid_max">1000</MDI>
+        <MDI key="ZSD_avg_month_08#valid_min">0</MDI>
+        <MDI key="ZSD_avg_month_08#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">1.7184369564056</MDI>
+          <MDI key="STATISTICS_MAXIMUM">18.007648468018</MDI>
+          <MDI key="STATISTICS_MEAN">10.836468167947</MDI>
+          <MDI key="STATISTICS_STDDEV">3.6194942270656</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="ZSD_avg_month_09">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="ZSD_avg_month_09#long_name">Secchi disk depth - Mean of the binned pixels</MDI>
+        <MDI key="ZSD_avg_month_09#standard_name">secchi_depth_of_sea_water</MDI>
+        <MDI key="ZSD_avg_month_09#units">m</MDI>
+        <MDI key="ZSD_avg_month_09#valid_max">1000</MDI>
+        <MDI key="ZSD_avg_month_09#valid_min">0</MDI>
+        <MDI key="ZSD_avg_month_09#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">1.7929282188416</MDI>
+          <MDI key="STATISTICS_MAXIMUM">17.903182983398</MDI>
+          <MDI key="STATISTICS_MEAN">10.047401788136</MDI>
+          <MDI key="STATISTICS_STDDEV">3.6533853527266</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="ZSD_avg_month_10">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="ZSD_avg_month_10#long_name">Secchi disk depth - Mean of the binned pixels</MDI>
+        <MDI key="ZSD_avg_month_10#standard_name">secchi_depth_of_sea_water</MDI>
+        <MDI key="ZSD_avg_month_10#units">m</MDI>
+        <MDI key="ZSD_avg_month_10#valid_max">1000</MDI>
+        <MDI key="ZSD_avg_month_10#valid_min">0</MDI>
+        <MDI key="ZSD_avg_month_10#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">2.1924161911011</MDI>
+          <MDI key="STATISTICS_MAXIMUM">20.614810943604</MDI>
+          <MDI key="STATISTICS_MEAN">10.69502031999</MDI>
+          <MDI key="STATISTICS_STDDEV">4.6209576817469</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="ZSD_avg_month_11">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="ZSD_avg_month_11#long_name">Secchi disk depth - Mean of the binned pixels</MDI>
+        <MDI key="ZSD_avg_month_11#standard_name">secchi_depth_of_sea_water</MDI>
+        <MDI key="ZSD_avg_month_11#units">m</MDI>
+        <MDI key="ZSD_avg_month_11#valid_max">1000</MDI>
+        <MDI key="ZSD_avg_month_11#valid_min">0</MDI>
+        <MDI key="ZSD_avg_month_11#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">2.0322632789612</MDI>
+          <MDI key="STATISTICS_MAXIMUM">23.690757751465</MDI>
+          <MDI key="STATISTICS_MEAN">11.468111718</MDI>
+          <MDI key="STATISTICS_STDDEV">5.6927142683581</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="ZSD_avg_month_12">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="ZSD_avg_month_12#long_name">Secchi disk depth - Mean of the binned pixels</MDI>
+        <MDI key="ZSD_avg_month_12#standard_name">secchi_depth_of_sea_water</MDI>
+        <MDI key="ZSD_avg_month_12#units">m</MDI>
+        <MDI key="ZSD_avg_month_12#valid_max">1000</MDI>
+        <MDI key="ZSD_avg_month_12#valid_min">0</MDI>
+        <MDI key="ZSD_avg_month_12#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">1.5332956314087</MDI>
+          <MDI key="STATISTICS_MAXIMUM">19.15002822876</MDI>
+          <MDI key="STATISTICS_MEAN">9.1950670543544</MDI>
+          <MDI key="STATISTICS_STDDEV">3.8076927578799</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="ZSD_avg_overall_annual">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="ZSD_avg_overall_annual#long_name">Secchi disk depth - Mean of the binned pixels</MDI>
+        <MDI key="ZSD_avg_overall_annual#standard_name">secchi_depth_of_sea_water</MDI>
+        <MDI key="ZSD_avg_overall_annual#units">m</MDI>
+        <MDI key="ZSD_avg_overall_annual#valid_max">1000</MDI>
+        <MDI key="ZSD_avg_overall_annual#valid_min">0</MDI>
+        <MDI key="ZSD_avg_overall_annual#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">1.8727851838986</MDI>
+          <MDI key="STATISTICS_MAXIMUM">17.865662553637</MDI>
+          <MDI key="STATISTICS_MEAN">11.030750638735</MDI>
+          <MDI key="STATISTICS_STDDEV">5.0129422080674</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="ZSD_count_month_01">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="ZSD_count_month_01#long_name">Number of valid observations for month_01 average</MDI>
+        <MDI key="ZSD_count_month_01#units">1</MDI>
+        <MDI key="ZSD_count_month_01#_FillValue">-1</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">170</MDI>
+          <MDI key="STATISTICS_MEAN">45.719255050505</MDI>
+          <MDI key="STATISTICS_STDDEV">46.538313879043</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="ZSD_count_month_02">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="ZSD_count_month_02#long_name">Number of valid observations for month_02 average</MDI>
+        <MDI key="ZSD_count_month_02#units">1</MDI>
+        <MDI key="ZSD_count_month_02#_FillValue">-1</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">186</MDI>
+          <MDI key="STATISTICS_MEAN">82.373137626262</MDI>
+          <MDI key="STATISTICS_STDDEV">56.090539635288</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="ZSD_count_month_03">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="ZSD_count_month_03#long_name">Number of valid observations for month_03 average</MDI>
+        <MDI key="ZSD_count_month_03#units">1</MDI>
+        <MDI key="ZSD_count_month_03#_FillValue">-1</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">215</MDI>
+          <MDI key="STATISTICS_MEAN">117.05753367003</MDI>
+          <MDI key="STATISTICS_STDDEV">76.954203566867</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="ZSD_count_month_04">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="ZSD_count_month_04#long_name">Number of valid observations for month_04 average</MDI>
+        <MDI key="ZSD_count_month_04#units">1</MDI>
+        <MDI key="ZSD_count_month_04#_FillValue">-1</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">271</MDI>
+          <MDI key="STATISTICS_MEAN">142.81885521885</MDI>
+          <MDI key="STATISTICS_STDDEV">94.055116473719</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="ZSD_count_month_05">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="ZSD_count_month_05#long_name">Number of valid observations for month_05 average</MDI>
+        <MDI key="ZSD_count_month_05#units">1</MDI>
+        <MDI key="ZSD_count_month_05#_FillValue">-1</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">264</MDI>
+          <MDI key="STATISTICS_MEAN">145.04025673401</MDI>
+          <MDI key="STATISTICS_STDDEV">95.513451860447</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="ZSD_count_month_06">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="ZSD_count_month_06#long_name">Number of valid observations for month_06 average</MDI>
+        <MDI key="ZSD_count_month_06#units">1</MDI>
+        <MDI key="ZSD_count_month_06#_FillValue">-1</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">257</MDI>
+          <MDI key="STATISTICS_MEAN">125.9578493266</MDI>
+          <MDI key="STATISTICS_STDDEV">85.390093005114</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="ZSD_count_month_07">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="ZSD_count_month_07#long_name">Number of valid observations for month_07 average</MDI>
+        <MDI key="ZSD_count_month_07#units">1</MDI>
+        <MDI key="ZSD_count_month_07#_FillValue">-1</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">293</MDI>
+          <MDI key="STATISTICS_MEAN">125.50344065657</MDI>
+          <MDI key="STATISTICS_STDDEV">86.494452956258</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="ZSD_count_month_08">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="ZSD_count_month_08#long_name">Number of valid observations for month_08 average</MDI>
+        <MDI key="ZSD_count_month_08#units">1</MDI>
+        <MDI key="ZSD_count_month_08#_FillValue">-1</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">281</MDI>
+          <MDI key="STATISTICS_MEAN">132.59695917508</MDI>
+          <MDI key="STATISTICS_STDDEV">89.137025926412</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="ZSD_count_month_09">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="ZSD_count_month_09#long_name">Number of valid observations for month_09 average</MDI>
+        <MDI key="ZSD_count_month_09#units">1</MDI>
+        <MDI key="ZSD_count_month_09#_FillValue">-1</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">232</MDI>
+          <MDI key="STATISTICS_MEAN">120.46118476431</MDI>
+          <MDI key="STATISTICS_STDDEV">79.414238148145</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="ZSD_count_month_10">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="ZSD_count_month_10#long_name">Number of valid observations for month_10 average</MDI>
+        <MDI key="ZSD_count_month_10#units">1</MDI>
+        <MDI key="ZSD_count_month_10#_FillValue">-1</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">215</MDI>
+          <MDI key="STATISTICS_MEAN">109.8537037037</MDI>
+          <MDI key="STATISTICS_STDDEV">72.397107985748</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="ZSD_count_month_11">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="ZSD_count_month_11#long_name">Number of valid observations for month_11 average</MDI>
+        <MDI key="ZSD_count_month_11#units">1</MDI>
+        <MDI key="ZSD_count_month_11#_FillValue">-1</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">181</MDI>
+          <MDI key="STATISTICS_MEAN">64.906681397306</MDI>
+          <MDI key="STATISTICS_STDDEV">52.398531027537</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="ZSD_count_month_12">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="ZSD_count_month_12#long_name">Number of valid observations for month_12 average</MDI>
+        <MDI key="ZSD_count_month_12#units">1</MDI>
+        <MDI key="ZSD_count_month_12#_FillValue">-1</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">153</MDI>
+          <MDI key="STATISTICS_MEAN">23.451767676768</MDI>
+          <MDI key="STATISTICS_STDDEV">39.424580497202</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="ZSD_count_overall_annual">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+        <MDI key="ZSD_count_overall_annual#long_name">Number of valid observations for overall_annual average</MDI>
+        <MDI key="ZSD_count_overall_annual#units">1</MDI>
+        <MDI key="ZSD_count_overall_annual#_FillValue">-1</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">2385</MDI>
+          <MDI key="STATISTICS_MEAN">1235.740625</MDI>
+          <MDI key="STATISTICS_STDDEV">830.56131811419</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+</PAMDataset>

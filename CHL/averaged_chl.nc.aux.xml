@@ -1,0 +1,743 @@
+<PAMDataset>
+  <Subdataset name="CHL_avg_month_01">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="CHL_avg_month_01#long_name">Chlorophyll concentration - Mean of the binned pixels</MDI>
+        <MDI key="CHL_avg_month_01#standard_name">mass_concentration_of_chlorophyll_a_in_sea_water</MDI>
+        <MDI key="CHL_avg_month_01#units">milligram m-3</MDI>
+        <MDI key="CHL_avg_month_01#valid_max">1000</MDI>
+        <MDI key="CHL_avg_month_01#valid_min">0</MDI>
+        <MDI key="CHL_avg_month_01#_FillValue">nan</MDI>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0.073475353419781</MDI>
+          <MDI key="STATISTICS_MAXIMUM">54.769012451172</MDI>
+          <MDI key="STATISTICS_MEAN">1.9905995594322</MDI>
+          <MDI key="STATISTICS_STDDEV">2.0280015807239</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="CHL_avg_month_02">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="CHL_avg_month_02#long_name">Chlorophyll concentration - Mean of the binned pixels</MDI>
+        <MDI key="CHL_avg_month_02#standard_name">mass_concentration_of_chlorophyll_a_in_sea_water</MDI>
+        <MDI key="CHL_avg_month_02#units">milligram m-3</MDI>
+        <MDI key="CHL_avg_month_02#valid_max">1000</MDI>
+        <MDI key="CHL_avg_month_02#valid_min">0</MDI>
+        <MDI key="CHL_avg_month_02#_FillValue">nan</MDI>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0.0099999997764826</MDI>
+          <MDI key="STATISTICS_MAXIMUM">43.862289428711</MDI>
+          <MDI key="STATISTICS_MEAN">1.9312663262339</MDI>
+          <MDI key="STATISTICS_STDDEV">2.4129248769211</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="CHL_avg_month_03">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="CHL_avg_month_03#long_name">Chlorophyll concentration - Mean of the binned pixels</MDI>
+        <MDI key="CHL_avg_month_03#standard_name">mass_concentration_of_chlorophyll_a_in_sea_water</MDI>
+        <MDI key="CHL_avg_month_03#units">milligram m-3</MDI>
+        <MDI key="CHL_avg_month_03#valid_max">1000</MDI>
+        <MDI key="CHL_avg_month_03#valid_min">0</MDI>
+        <MDI key="CHL_avg_month_03#_FillValue">nan</MDI>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0.081919230520725</MDI>
+          <MDI key="STATISTICS_MAXIMUM">50.209674835205</MDI>
+          <MDI key="STATISTICS_MEAN">2.2151050527206</MDI>
+          <MDI key="STATISTICS_STDDEV">3.0347206845041</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="CHL_avg_month_04">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="CHL_avg_month_04#long_name">Chlorophyll concentration - Mean of the binned pixels</MDI>
+        <MDI key="CHL_avg_month_04#standard_name">mass_concentration_of_chlorophyll_a_in_sea_water</MDI>
+        <MDI key="CHL_avg_month_04#units">milligram m-3</MDI>
+        <MDI key="CHL_avg_month_04#valid_max">1000</MDI>
+        <MDI key="CHL_avg_month_04#valid_min">0</MDI>
+        <MDI key="CHL_avg_month_04#_FillValue">nan</MDI>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0.20132058858871</MDI>
+          <MDI key="STATISTICS_MAXIMUM">48.307609558105</MDI>
+          <MDI key="STATISTICS_MEAN">3.4441652479904</MDI>
+          <MDI key="STATISTICS_STDDEV">5.1460330081865</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="CHL_avg_month_05">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="CHL_avg_month_05#long_name">Chlorophyll concentration - Mean of the binned pixels</MDI>
+        <MDI key="CHL_avg_month_05#standard_name">mass_concentration_of_chlorophyll_a_in_sea_water</MDI>
+        <MDI key="CHL_avg_month_05#units">milligram m-3</MDI>
+        <MDI key="CHL_avg_month_05#valid_max">1000</MDI>
+        <MDI key="CHL_avg_month_05#valid_min">0</MDI>
+        <MDI key="CHL_avg_month_05#_FillValue">nan</MDI>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0.10382112115622</MDI>
+          <MDI key="STATISTICS_MAXIMUM">42.576652526855</MDI>
+          <MDI key="STATISTICS_MEAN">2.9324454291259</MDI>
+          <MDI key="STATISTICS_STDDEV">3.4659091876569</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="CHL_avg_month_06">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="CHL_avg_month_06#long_name">Chlorophyll concentration - Mean of the binned pixels</MDI>
+        <MDI key="CHL_avg_month_06#standard_name">mass_concentration_of_chlorophyll_a_in_sea_water</MDI>
+        <MDI key="CHL_avg_month_06#units">milligram m-3</MDI>
+        <MDI key="CHL_avg_month_06#valid_max">1000</MDI>
+        <MDI key="CHL_avg_month_06#valid_min">0</MDI>
+        <MDI key="CHL_avg_month_06#_FillValue">nan</MDI>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0.20077095925808</MDI>
+          <MDI key="STATISTICS_MAXIMUM">52.063751220703</MDI>
+          <MDI key="STATISTICS_MEAN">1.9506305760306</MDI>
+          <MDI key="STATISTICS_STDDEV">2.8649411759726</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="CHL_avg_month_07">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="CHL_avg_month_07#long_name">Chlorophyll concentration - Mean of the binned pixels</MDI>
+        <MDI key="CHL_avg_month_07#standard_name">mass_concentration_of_chlorophyll_a_in_sea_water</MDI>
+        <MDI key="CHL_avg_month_07#units">milligram m-3</MDI>
+        <MDI key="CHL_avg_month_07#valid_max">1000</MDI>
+        <MDI key="CHL_avg_month_07#valid_min">0</MDI>
+        <MDI key="CHL_avg_month_07#_FillValue">nan</MDI>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0.28208228945732</MDI>
+          <MDI key="STATISTICS_MAXIMUM">71.621124267578</MDI>
+          <MDI key="STATISTICS_MEAN">1.836387687573</MDI>
+          <MDI key="STATISTICS_STDDEV">3.4055601215926</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="CHL_avg_month_08">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="CHL_avg_month_08#long_name">Chlorophyll concentration - Mean of the binned pixels</MDI>
+        <MDI key="CHL_avg_month_08#standard_name">mass_concentration_of_chlorophyll_a_in_sea_water</MDI>
+        <MDI key="CHL_avg_month_08#units">milligram m-3</MDI>
+        <MDI key="CHL_avg_month_08#valid_max">1000</MDI>
+        <MDI key="CHL_avg_month_08#valid_min">0</MDI>
+        <MDI key="CHL_avg_month_08#_FillValue">nan</MDI>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0.13610003888607</MDI>
+          <MDI key="STATISTICS_MAXIMUM">56.053077697754</MDI>
+          <MDI key="STATISTICS_MEAN">1.905097034077</MDI>
+          <MDI key="STATISTICS_STDDEV">3.44308555101</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="CHL_avg_month_09">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="CHL_avg_month_09#long_name">Chlorophyll concentration - Mean of the binned pixels</MDI>
+        <MDI key="CHL_avg_month_09#standard_name">mass_concentration_of_chlorophyll_a_in_sea_water</MDI>
+        <MDI key="CHL_avg_month_09#units">milligram m-3</MDI>
+        <MDI key="CHL_avg_month_09#valid_max">1000</MDI>
+        <MDI key="CHL_avg_month_09#valid_min">0</MDI>
+        <MDI key="CHL_avg_month_09#_FillValue">nan</MDI>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0.21806335449219</MDI>
+          <MDI key="STATISTICS_MAXIMUM">49.078971862793</MDI>
+          <MDI key="STATISTICS_MEAN">2.0222954406147</MDI>
+          <MDI key="STATISTICS_STDDEV">3.1788940543738</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="CHL_avg_month_10">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="CHL_avg_month_10#long_name">Chlorophyll concentration - Mean of the binned pixels</MDI>
+        <MDI key="CHL_avg_month_10#standard_name">mass_concentration_of_chlorophyll_a_in_sea_water</MDI>
+        <MDI key="CHL_avg_month_10#units">milligram m-3</MDI>
+        <MDI key="CHL_avg_month_10#valid_max">1000</MDI>
+        <MDI key="CHL_avg_month_10#valid_min">0</MDI>
+        <MDI key="CHL_avg_month_10#_FillValue">nan</MDI>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0.10558981448412</MDI>
+          <MDI key="STATISTICS_MAXIMUM">53.817306518555</MDI>
+          <MDI key="STATISTICS_MEAN">1.721183394219</MDI>
+          <MDI key="STATISTICS_STDDEV">2.5466658735024</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="CHL_avg_month_11">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="CHL_avg_month_11#long_name">Chlorophyll concentration - Mean of the binned pixels</MDI>
+        <MDI key="CHL_avg_month_11#standard_name">mass_concentration_of_chlorophyll_a_in_sea_water</MDI>
+        <MDI key="CHL_avg_month_11#units">milligram m-3</MDI>
+        <MDI key="CHL_avg_month_11#valid_max">1000</MDI>
+        <MDI key="CHL_avg_month_11#valid_min">0</MDI>
+        <MDI key="CHL_avg_month_11#_FillValue">nan</MDI>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0.00999999884516</MDI>
+          <MDI key="STATISTICS_MAXIMUM">80.447372436523</MDI>
+          <MDI key="STATISTICS_MEAN">1.8497445273879</MDI>
+          <MDI key="STATISTICS_STDDEV">2.5611625348496</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="CHL_avg_month_12">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="CHL_avg_month_12#long_name">Chlorophyll concentration - Mean of the binned pixels</MDI>
+        <MDI key="CHL_avg_month_12#standard_name">mass_concentration_of_chlorophyll_a_in_sea_water</MDI>
+        <MDI key="CHL_avg_month_12#units">milligram m-3</MDI>
+        <MDI key="CHL_avg_month_12#valid_max">1000</MDI>
+        <MDI key="CHL_avg_month_12#valid_min">0</MDI>
+        <MDI key="CHL_avg_month_12#_FillValue">nan</MDI>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0.017541939392686</MDI>
+          <MDI key="STATISTICS_MAXIMUM">89.692459106445</MDI>
+          <MDI key="STATISTICS_MEAN">2.1498893757658</MDI>
+          <MDI key="STATISTICS_STDDEV">2.3782239852512</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="CHL_avg_overall_annual">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="CHL_avg_overall_annual#long_name">Chlorophyll concentration - Mean of the binned pixels</MDI>
+        <MDI key="CHL_avg_overall_annual#standard_name">mass_concentration_of_chlorophyll_a_in_sea_water</MDI>
+        <MDI key="CHL_avg_overall_annual#units">milligram m-3</MDI>
+        <MDI key="CHL_avg_overall_annual#valid_max">1000</MDI>
+        <MDI key="CHL_avg_overall_annual#valid_min">0</MDI>
+        <MDI key="CHL_avg_overall_annual#_FillValue">nan</MDI>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0.27858990643706</MDI>
+          <MDI key="STATISTICS_MAXIMUM">33.843747388572</MDI>
+          <MDI key="STATISTICS_MEAN">2.194932944838</MDI>
+          <MDI key="STATISTICS_STDDEV">2.5789288588923</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="CHL_count_month_01">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="CHL_count_month_01#long_name">Number of valid observations for month_01 average</MDI>
+        <MDI key="CHL_count_month_01#units">1</MDI>
+        <MDI key="CHL_count_month_01#_FillValue">-1</MDI>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">77</MDI>
+          <MDI key="STATISTICS_MEAN">22.60208596713</MDI>
+          <MDI key="STATISTICS_STDDEV">22.489124049469</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="CHL_count_month_02">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="CHL_count_month_02#long_name">Number of valid observations for month_02 average</MDI>
+        <MDI key="CHL_count_month_02#units">1</MDI>
+        <MDI key="CHL_count_month_02#_FillValue">-1</MDI>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">83</MDI>
+          <MDI key="STATISTICS_MEAN">31.270573432245</MDI>
+          <MDI key="STATISTICS_STDDEV">25.992419783813</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="CHL_count_month_03">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="CHL_count_month_03#long_name">Number of valid observations for month_03 average</MDI>
+        <MDI key="CHL_count_month_03#units">1</MDI>
+        <MDI key="CHL_count_month_03#_FillValue">-1</MDI>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">101</MDI>
+          <MDI key="STATISTICS_MEAN">44.583194189347</MDI>
+          <MDI key="STATISTICS_STDDEV">35.840343195268</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="CHL_count_month_04">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="CHL_count_month_04#long_name">Number of valid observations for month_04 average</MDI>
+        <MDI key="CHL_count_month_04#units">1</MDI>
+        <MDI key="CHL_count_month_04#_FillValue">-1</MDI>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">118</MDI>
+          <MDI key="STATISTICS_MEAN">53.866201130643</MDI>
+          <MDI key="STATISTICS_STDDEV">43.22646823652</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="CHL_count_month_05">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="CHL_count_month_05#long_name">Number of valid observations for month_05 average</MDI>
+        <MDI key="CHL_count_month_05#units">1</MDI>
+        <MDI key="CHL_count_month_05#_FillValue">-1</MDI>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">136</MDI>
+          <MDI key="STATISTICS_MEAN">55.64985210982</MDI>
+          <MDI key="STATISTICS_STDDEV">45.554927913818</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="CHL_count_month_06">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="CHL_count_month_06#long_name">Number of valid observations for month_06 average</MDI>
+        <MDI key="CHL_count_month_06#units">1</MDI>
+        <MDI key="CHL_count_month_06#_FillValue">-1</MDI>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">116</MDI>
+          <MDI key="STATISTICS_MEAN">46.687021444075</MDI>
+          <MDI key="STATISTICS_STDDEV">39.016426817863</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="CHL_count_month_07">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="CHL_count_month_07#long_name">Number of valid observations for month_07 average</MDI>
+        <MDI key="CHL_count_month_07#units">1</MDI>
+        <MDI key="CHL_count_month_07#_FillValue">-1</MDI>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">114</MDI>
+          <MDI key="STATISTICS_MEAN">43.791474846743</MDI>
+          <MDI key="STATISTICS_STDDEV">37.641777587082</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="CHL_count_month_08">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="CHL_count_month_08#long_name">Number of valid observations for month_08 average</MDI>
+        <MDI key="CHL_count_month_08#units">1</MDI>
+        <MDI key="CHL_count_month_08#_FillValue">-1</MDI>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">120</MDI>
+          <MDI key="STATISTICS_MEAN">47.893900722754</MDI>
+          <MDI key="STATISTICS_STDDEV">39.859452580087</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="CHL_count_month_09">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="CHL_count_month_09#long_name">Number of valid observations for month_09 average</MDI>
+        <MDI key="CHL_count_month_09#units">1</MDI>
+        <MDI key="CHL_count_month_09#_FillValue">-1</MDI>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">105</MDI>
+          <MDI key="STATISTICS_MEAN">43.954326980417</MDI>
+          <MDI key="STATISTICS_STDDEV">35.610400783764</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="CHL_count_month_10">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="CHL_count_month_10#long_name">Number of valid observations for month_10 average</MDI>
+        <MDI key="CHL_count_month_10#units">1</MDI>
+        <MDI key="CHL_count_month_10#_FillValue">-1</MDI>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">86</MDI>
+          <MDI key="STATISTICS_MEAN">39.173651694773</MDI>
+          <MDI key="STATISTICS_STDDEV">31.398327278491</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="CHL_count_month_11">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="CHL_count_month_11#long_name">Number of valid observations for month_11 average</MDI>
+        <MDI key="CHL_count_month_11#units">1</MDI>
+        <MDI key="CHL_count_month_11#_FillValue">-1</MDI>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">75</MDI>
+          <MDI key="STATISTICS_MEAN">27.754764687641</MDI>
+          <MDI key="STATISTICS_STDDEV">23.033482314538</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="CHL_count_month_12">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="CHL_count_month_12#long_name">Number of valid observations for month_12 average</MDI>
+        <MDI key="CHL_count_month_12#units">1</MDI>
+        <MDI key="CHL_count_month_12#_FillValue">-1</MDI>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">72</MDI>
+          <MDI key="STATISTICS_MEAN">13.285541349617</MDI>
+          <MDI key="STATISTICS_STDDEV">17.4897996626</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="CHL_count_overall_annual">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="CHL_count_overall_annual#long_name">Number of valid observations for overall_annual average</MDI>
+        <MDI key="CHL_count_overall_annual#units">1</MDI>
+        <MDI key="CHL_count_overall_annual#_FillValue">-1</MDI>
+        <MDI key="latitude#axis">Y</MDI>
+        <MDI key="latitude#long_name">latitude</MDI>
+        <MDI key="latitude#standard_name">latitude</MDI>
+        <MDI key="latitude#units">degrees_north</MDI>
+        <MDI key="latitude#_FillValue">nan</MDI>
+        <MDI key="longitude#axis">X</MDI>
+        <MDI key="longitude#long_name">longitude</MDI>
+        <MDI key="longitude#standard_name">longitude</MDI>
+        <MDI key="longitude#units">degrees_east</MDI>
+        <MDI key="longitude#_FillValue">nan</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">1033</MDI>
+          <MDI key="STATISTICS_MEAN">470.51258855521</MDI>
+          <MDI key="STATISTICS_STDDEV">384.65596853969</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+</PAMDataset>
