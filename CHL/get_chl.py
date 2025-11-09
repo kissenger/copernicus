@@ -8,7 +8,7 @@ load_dotenv()
 # https://data.marine.copernicus.eu/product/OCEANCOLOUR_ATL_BGC_L3_MY_009_113/services
 
 copernicusmarine.login(
-  username = os.getenv("USRNM"),
+  username = os.getenv("USRNAME"),
   password = os.getenv("PASSWD")
 )
 
